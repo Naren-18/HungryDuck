@@ -23,16 +23,16 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>HungryDuck | Turnkey Hospitality Solutions - Hotels, Restaurants, Nightclubs</title>
+        <title>HungryDuck | Hospitality Solutions - Hotels, Restaurants, Nightclubs</title>
         <meta 
           name="description" 
           content="HungryDuck delivers end-to-end hospitality solutions. From concept to completion, we design, build, launch and maintain world-class hotels, restaurants, nightclubs and resorts." 
         />
-        <meta name="keywords" content="hospitality solutions, hotel development, restaurant setup, nightclub design, turnkey projects, hospitality consulting" />
+        <meta name="keywords" content="hospitality solutions, hotel development, restaurant setup, nightclub design,   projects, hospitality consulting" />
         <link rel="canonical" href="https://hungryduck.com" />
         
         {/* Open Graph */}
-        <meta property="og:title" content="HungryDuck | Turnkey Hospitality Solutions" />
+        <meta property="og:title" content="HungryDuck |   Hospitality Solutions" />
         <meta property="og:description" content="We Design. We Build. We Launch. We Maintain. Creating world-class hospitality experiences end to end." />
         <meta property="og:type" content="website" />
         
@@ -42,7 +42,7 @@ const Index = () => {
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "HungryDuck",
-            "description": "Full-service hospitality solutions company specializing in turnkey projects",
+            "description": "Full-service hospitality solutions company specializing in   projects",
             "url": "https://hungryduck.com",
             "contactPoint": {
               "@type": "ContactPoint",

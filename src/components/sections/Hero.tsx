@@ -36,7 +36,7 @@ const Hero = () => {
           {/* Tagline */}
           <div className="animate-fade-up opacity-0">
             <span className="inline-block px-4 py-2 bg-terracotta/20 backdrop-blur-sm rounded-full text-terracotta-light text-sm font-medium mb-6">
-              Turnkey Hospitality Solutions
+                Hospitality Solutions
             </span>
           </div>
 

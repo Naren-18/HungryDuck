@@ -9,7 +9,7 @@ const Services = () => {
     {
       id: 1,
       Icon: Wrench,
-      title: 'Turnkey Hospitality Projects',
+      title: '  Hospitality Projects',
       description: 'End-to-end execution: concept → design → build → setup → launch → maintenance.',
       features: [
         'Concept development',
@@ -76,7 +76,7 @@ const Services = () => {
           </h2>
           <p className="text-muted-foreground text-lg">
             From concept to completion, we handle the complete lifecycle of hospitality setup
-            with our turnkey delivery model.
+            with our   delivery model.
           </p>
         </div>
 

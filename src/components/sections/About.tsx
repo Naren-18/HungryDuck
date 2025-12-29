@@ -23,7 +23,7 @@ const About = () => {
             </h2>
             <p className="text-muted-foreground text-lg leading-relaxed mb-6">
               HungryDuck is a full-service hospitality solutions company specializing in 
-              turnkey projects for hotels, restaurants, nightclubs, cafés, and resorts. 
+              projects for hotels, restaurants, nightclubs, cafés, and resorts. 
               We bring every vision to life — from concept and design to execution, setup, 
               launch, and long-term maintenance.
             </p>
@@ -77,14 +77,14 @@ const About = () => {
             <h3 className="font-display text-2xl font-bold mb-4">Our Mission</h3>
             <p className="text-primary-foreground/90 leading-relaxed">
               To empower hospitality entrepreneurs and brands by delivering innovative, 
-              efficient, and sustainable turnkey solutions that transform ideas into 
+              efficient, and sustainable  solutions that transform ideas into 
               profitable, memorable experiences.
             </p>
           </div>
           <div className="p-8 rounded-2xl bg-accent text-accent-foreground">
             <h3 className="font-display text-2xl font-bold mb-4">Our Vision</h3>
             <p className="text-accent-foreground/90 leading-relaxed">
-              To be a global leader in turnkey hospitality development, known for 
+              To be a global leader in  hospitality development, known for 
               exceptional quality, creativity, and operational excellence in every 
               project we undertake.
             </p>

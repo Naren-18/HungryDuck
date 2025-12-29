@@ -14,7 +14,7 @@ const Footer = () => {
             </h3>
             <p className="text-sand-dark/80 text-sm leading-relaxed">
               Creating world-class hospitality experiences from concept to completion.
-              Your turnkey partner in hospitality success.
+              Your  partner in hospitality success.
             </p>
           </div>
 
@@ -39,7 +39,7 @@ const Footer = () => {
             <h4 className="font-display text-lg font-semibold">Services</h4>
             <nav className="flex flex-col gap-2">
               {[
-                'Turnkey Projects',
+                'Projects',
                 'Hotels & Resorts',
                 'Restaurants & Cafés',
                 'Nightclubs & Lounges',
