@@ -35,7 +35,7 @@ const Footer = () => {
           </div>
 
           {/* Services */}
-          <div className="space-y-4">
+          <div className="space-y-4"> 
             <h4 className="font-display text-lg font-semibold">Services</h4>
             <nav className="flex flex-col gap-2">
               {[
